@@ -1,0 +1,37 @@
+{
+  "name": "nodejs",
+  "version": "1.0.9",
+  "description": "",
+  "main": "index.js",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "keywords": [],
+  "author": "",
+  "license": "ISC",
+  "dependencies": {
+    "@replit/database": "^2.0.2",
+    "@types/node": "^18.0.6",
+    "axios": "^1.3.6",
+    "body-parser": "^1.20.1",
+    "cheerio": "^1.0.0-rc.12",
+    "cookie-parser": "^1.4.6",
+    "cors": "^2.8.5",
+    "countapi-js": "^1.0.2",
+    "ejs": "^3.1.8",
+    "express": "^4.18.2",
+    "express-formidable": "^1.2.0",
+    "express-ipfilter": "^1.3.1",
+    "express-rate-limit": "^6.7.0",
+    "express-session": "^1.17.3",
+    "fs": "^0.0.1-security",
+    "node-fetch": "^3.3.0",
+    "path": "^0.12.7",
+    "request": "^2.88.2",
+    "settings.json": "^0.2.0",
+    "systeminformation": "^5.17.12",
+    "viko-ytdl": "^1.0.1",
+    "yt-search": "^2.10.4",
+    "ytdl-core": "^4.11.4"
+  }
+}
